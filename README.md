@@ -1,5 +1,3 @@
-Here's an improved version with some polished lines and added sections to make your GitHub profile readme stand out:
-
 ---
 
 <h1 align="center">Hi 👋, I'm Ravi</h1>
